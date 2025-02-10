@@ -1,4 +1,5 @@
 # YC Directory
+### Pitch and grow your startup.
 
 ## Getting Started
 
