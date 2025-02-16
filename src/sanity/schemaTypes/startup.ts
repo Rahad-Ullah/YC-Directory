@@ -33,7 +33,7 @@ export const startup = defineType({
       name: "category",
       type: "string",
       validation: (Rule) =>
-        Rule.min(1).max(1).required().error("Please enter a category"),
+        Rule.min(1).max(10).required().error("Please enter a category"),
     }),
     defineField({
       name: "image",
